@@ -1,6 +1,6 @@
 # Permanency
 
-Permanency is a chat application made in C#, it uses WinForms for it's client and a command prompt for it's server.
+Permanency is a chat application made in C#, it uses WinForms for it's client and a command prompt for its server.
 
 # Key Features
 
